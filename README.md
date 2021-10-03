@@ -17,4 +17,4 @@ Pewlett Hackard would like to prepare for the upcoming "silver tsunami". The pur
 ## Summary
 As the "silver tsunami" roles in, 7 roles in varying ways, will need to be filled. With over 120,000 employees retiring and a little over 1500 employees eligible for the mentorship program, there are plenty of qualified, retirement-ready employees to help mentor the next generation. And mentors will be able to be matched to appropriate roles, as all mentoring roles have a host of retirment-ready employees to be matched with.
 
-Additional resources, including SQL queries can be found in 
+Additional resources, including SQL queries can be found here: https://github.com/jaimiesj/Pewlett-Hackard-Analysis
